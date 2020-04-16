@@ -1,5 +1,8 @@
-# Build files
+# Generated files
 db/
+incremental_db/
+output_files/
+simulation/
 
 # Prerequisites
 *.d

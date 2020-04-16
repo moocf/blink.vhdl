@@ -6,9 +6,10 @@ Blinks an LED.
 1. Goto Intel -> Solutions -> FPGA Developers -> Downloads.
 2. Download and install [Quartus].
 
+
 ### create project
 
-1. File -> New Project Wizard.
+1. File -> New Project Wizard
 1. **Introduction**
 1. *Next*
 1. **Directory, Name, Top-Level Entity**
@@ -30,6 +31,13 @@ Blinks an LED.
 1. *Next*
 1. **Summary**
 1. *Finish*
+
+
+### write code
+
+1. File -> New
+1. VHDL File
+
 
 
 [Quartus]: https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
