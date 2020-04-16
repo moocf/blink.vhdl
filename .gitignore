@@ -4,6 +4,9 @@ incremental_db/
 output_files/
 simulation/
 
+# Backup files
+*.*.bak
+
 # Prerequisites
 *.d
 

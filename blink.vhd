@@ -13,5 +13,5 @@ end blink;
 
 architecture bh of blink is
 begin
-	led <= (others => '1');
+	led <= (others => '0`');
 end bh;
