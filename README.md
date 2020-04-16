@@ -1,10 +1,35 @@
 Blinks an LED.
 
 
-## setup
+### setup
 
 1. Goto Intel -> Solutions -> FPGA Developers -> Downloads.
 2. Download and install [Quartus].
+
+### create project
+
+1. File -> New Project Wizard.
+1. **Introduction**
+1. *Next*
+1. **Directory, Name, Top-Level Entity**
+1. Working directory: D:\Documents/blink
+1. Name of project: blink
+1. Name of top-level design entity: blink
+1. *Next*
+1. **Project Type**
+1. Empty project
+1. *Next*
+1. **Add Files**
+1. *Next*
+1. **Family & Device Settings**
+1. Device family: Family: Cyclone IV E
+1. Target device: EP4CE6E22C8
+1. *Next*
+1. **EDA Tool Settings**
+1. Simulation: Tool Name: ModelSim-Altera, Format(s): VHDL
+1. *Next*
+1. **Summary**
+1. *Finish*
 
 
 [Quartus]: https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
