@@ -1,13 +1,15 @@
 Blinks an LED.
 
+<br>
 
-### setup
+
+### Setup
 
 1. Goto Intel -> Solutions -> FPGA Developers -> Downloads.
 2. Download and install [Quartus].
 
 
-### create project
+### Create project
 
 1. File -> New Project Wizard
 1. **Introduction**
@@ -33,11 +35,18 @@ Blinks an LED.
 1. *Finish*
 
 
-### write code
+### Write code
 
 1. File -> New
 1. VHDL File
 
+<br>
+<br>
+
+
+## References
+
+- [03 FPGA VHDL ALTERA Quartus 15 blinking LEDs](https://www.youtube.com/watch?v=ypSjO5xVYOk)
 
 
 [Quartus]: https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
