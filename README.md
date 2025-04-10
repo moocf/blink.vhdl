@@ -48,5 +48,6 @@ Blinks an LED.
 
 - [03 FPGA VHDL ALTERA Quartus 15 blinking LEDs](https://www.youtube.com/watch?v=ypSjO5xVYOk)
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/blink.vhdl)
 
 [Quartus]: https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
